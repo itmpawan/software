@@ -166,7 +166,7 @@ $totalCustomersRecords = $dbObject->countRows();
                                                     <th>MODEL</th>
                                                     <th>SYSTEM TYPE</th>
                                                     <th>REMARKS</th>
-                                                    <th>GST</th>
+                                                    <th>GST NUMBER</th>
                                                     <th>BEFORE INSTALL</th>
                                                     <th>AFTER INSTALL</th>
                                                     <th>WARANTY</th>
